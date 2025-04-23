@@ -87,6 +87,7 @@ y_pred
 ![Screenshot 2025-04-23 042131](https://github.com/user-attachments/assets/29a0442f-5ab5-4f49-a567-cd02dda77b34)
 
 r2
+
 ![image](https://github.com/user-attachments/assets/45fdf366-3306-465a-bd1b-00c2360c96b5)
 
 plt.show()
